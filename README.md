@@ -1,4 +1,4 @@
-# customer_churn
+# Customer Churn
 
 ## Overview:
 This project focuses on analyzing customer churn in a telecom company named "Neo." The goal is to gain insights from the data and devise strategies to reduce customer attrition. The dataset used for this analysis is named `customer_churn`, and it contains information about various aspects of customer interactions with the telecom services.
